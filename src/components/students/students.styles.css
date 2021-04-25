@@ -1,0 +1,15 @@
+.Student div{
+    display: inline-block;
+    width: 33%;
+}
+.Red{
+    color: red;
+}
+.Female{
+    width: 70px;
+    margin-left: 60px;
+}
+.Male{
+    width: 80px;
+    margin-left: 60px;
+}
